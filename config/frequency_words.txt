@@ -82,6 +82,19 @@ ai
 !gai
 人工智能
 
+论文
+NLP
+ACM
+IEEE
+ICLR
+ACL
+EMNLP
+NAACL
+COLING
+AAAI
+CoNLL
+NLPCC
+
 自动驾驶
 
 机器人
@@ -98,7 +111,9 @@ ai
 
 科技
 
+能源
 核能
+核聚变
 
 水电站
 雅鲁藏布江
