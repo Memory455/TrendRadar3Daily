@@ -20,7 +20,7 @@ import requests
 import yaml
 
 
-VERSION = "3.5.0"
+VERSION = "3.5.0.Daily"
 
 
 # === SMTP邮件配置 ===
