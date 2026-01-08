@@ -82,6 +82,16 @@ ai
 !gai
 人工智能
 
+自动驾驶
+
+robot
+机器人
+具身智能
+宇树
+unitree
+波士顿动力
+众擎
+
 论文
 NLP
 ACM
@@ -94,10 +104,6 @@ COLING
 AAAI
 CoNLL
 NLPCC
-
-自动驾驶
-
-机器人
 
 国产
 中国
